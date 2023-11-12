@@ -1,0 +1,26 @@
+[
+  {
+   "name": "Hamza",
+    "age" : "23",
+   "address": "Charsadda",
+   "gender": "male",
+   "hair_color": "brown"
+  },
+  {
+    "name": "Ali",
+    "age": "24",
+    "address": "Shabqadar",
+    "gender": "male",
+    "hair_color": "black"
+   },
+   {
+    "name": "Kareena",
+    "age": "18",
+    "address": "Peshawar",
+    "gender": "female",
+    "hair_color": "black"
+   }  
+
+
+
+]

@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Fetching Offline JSON Data Inside The Project 
 <img width="204" alt="offlinejson" src="https://github.com/ihamzahkgithub/offline_json/assets/109942374/450eea4f-45e5-47f3-a27f-8ba06dd68f56">
+GetX Statemanagement for Light & Dark Mode
+<img width="203" alt="getx" src="https://github.com/ihamzahkgithub/offline_json/assets/109942374/b6a1608b-4903-48f2-b58b-9ef086003e96">
+
